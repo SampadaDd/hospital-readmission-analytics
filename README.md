@@ -23,9 +23,7 @@ On 3,000 admissions across 2,200 patients (2025):
 - **Bed demand is strongly seasonal**, peaking at 127 of 150 beds (~85%) in
   March and easing to ~55 in summer.
 
-![Ward readmission rates](charts/ward_readmission_rates.png)
 
-Full write-up with all four charts: **[FINDINGS.md](FINDINGS.md)**.
 
 ## The business problem
 
